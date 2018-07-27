@@ -1,2 +1,1 @@
-# Teender-COPY-
-SWE Project Front-End
+SWE Project
